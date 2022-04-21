@@ -43,13 +43,13 @@ inquirer.prompt([
         message: "Choose your outstanding license:",
         choices: [
             "None",
-            "MIT License",
-            "GNU GPLv3 License",
-            "Apache License",
-            "OpenBSD License",
-            "Rust Licesnse",
+            "MIT",
+            "GNUv3",
+            "Apache",
+            "OpenBSD",
+            "Rust",
         ],
-        name: 'licesnse',
+        name: 'license',
     },
     {
         type: 'input',
@@ -63,11 +63,12 @@ inquirer.prompt([
     }
 ]).then((answer) => {
     const genReadme = `
-    # ${answer.title}
+# ${answer.title}
     
     
 ## Description:
 ![license](https://img.shields.io/badge/License-${answer.license}-green.svg "License Badge")
+
 ${answer.description}
 
 ## Table of Contents: 
@@ -100,10 +101,12 @@ This project is covered under the following licence: ${answer.license}
 
 
 ## Questions
-Below is my GitHub Profile
+### If you are curious to see more of my work, you can find a link to my GitHub below:
+
 - [GitHub Profile](https://github.com/${answer.username})
-- For any further question, reach out to me at: 
-email:${answer.useremail}
+
+### For any further question, reach out to me at: 
+- ${answer.useremail}
 `
     fs.writeFile(savedFile, genReadme, (err) => {
         err ? console.log(err) : console.log('You just generated your spectacular README!')

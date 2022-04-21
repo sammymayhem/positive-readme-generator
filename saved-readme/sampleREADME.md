@@ -1,10 +1,11 @@
 
-    # adlhjsf
+# hell yeah
     
-    ![license](https://img.shields.io/badge/License-undefined-green.svg "License Badge")
-
+    
 ## Description:
-lkajshdfkjshdlkjf
+![license](https://img.shields.io/badge/License-GNUv3-green.svg "License Badge")
+
+thats right
 
 ## Table of Contents: 
 - [Description](#description)
@@ -17,26 +18,28 @@ lkajshdfkjshdlkjf
 - [Questions](#Questions)
 
 ## Installation
-alskdjhfklsajhd
+here we go
 
 ## Usage
-aslkjdhfklashdfkjash
+lets do this
 
 ## Contributing
-lskadjhfklashd
+all of them
 
 ## Tests
-alksjdhflkasj
+no tests
 
 ## Credits
-askdjhfk
+all of them
 
 ## License
-This project is covered under the following licence: undefined
+This project is covered under the following licence: GNUv3
 
 
 ## Questions
-Below is my GitHub Profile
-- [GitHub Profile](https://github.com/;dsal;dkfja;sl)
-- For any further question, reach out to me at: 
-email:as;lkdjfa;lskj
+### If you are curious to see more of my work, you can find a link to my GitHub below:
+
+- [GitHub Profile](https://github.com/sammymayhem)
+
+### For any further question, reach out to me at: 
+- sam@sammymayhem.com
