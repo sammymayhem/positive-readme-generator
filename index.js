@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const savedFile = './saved-readme/sampleREADME.md';
+const savedFile = './saved-readme/README.md';
 
 inquirer.prompt([
     {
@@ -74,12 +74,12 @@ ${answer.description}
 ## Table of Contents: 
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#Usage)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
 - [Credits](#credits)
-- [License](#License)
-- [Questions](#Questions)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
 ${answer.install}

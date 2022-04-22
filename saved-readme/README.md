@@ -1,11 +1,11 @@
 
-# The Positive READ Generator
+# The Amazing Project
     
     
 ## Description:
-![license](https://img.shields.io/badge/License-MIT-green.svg "License Badge")
+![license](https://img.shields.io/badge/License-Apache-green.svg "License Badge")
 
-It is a README generator with a positive spin on it.
+Well it's so fantastic I had to make a video about it.
 
 ## Table of Contents: 
 - [Description](#description)
@@ -18,22 +18,22 @@ It is a README generator with a positive spin on it.
 - [Questions](#questions)
 
 ## Installation
-No need to install, just run node index.js and you should be on your way!
+No installation needed.
 
 ## Usage
-Make sure to download the required JSON packages, which include Inquirer.
+You will need to run node index.js in your terminal.
 
 ## Contributing
-I would love more people working on my project!
+Yes, I am always glad to have help.
 
 ## Tests
 No tests.
 
 ## Credits
-Inquirer made this project possible!
+Inquirer was crucial to the development of this software.
 
 ## License
-This project is covered under the following licence: MIT
+This project is covered under the following licence: Apache
 
 
 ## Questions
